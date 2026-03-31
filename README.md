@@ -1,3 +1,3 @@
-#Prj Sort 프로젝트
+Prj Sort 프로젝트
 
 ##
